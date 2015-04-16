@@ -51,7 +51,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <a class="brand" href="/"><span>&oslash;</span>bin<em>.net</em></a>
           <div class="nav-collapse">
             <ul class="nav">
 
@@ -131,8 +131,8 @@
 
       %if settings.DISPLAY_COUNTER:
         <h4 id="pixels-total" >
-          <p>ø</p>
-          <strong>{{ pastes_count }}</strong> <br/>pastes øbinned
+          <p>&oslash;</p>
+          <strong>{{ pastes_count }}</strong> <br/>pastes &oslash;binned
         </h4>
       %end
 
