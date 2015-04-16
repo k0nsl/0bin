@@ -27,11 +27,11 @@
     <![endif]-->
 
     %if settings.COMPRESSED_STATIC_FILES:
-      <script src="/static/js/main.min.js?{{ settings.VERSION }}"></script>
+      <script src="/static/js/main.min.js" type="text/javascript" async></script>
     %else:
-      <script src="/static/js/jquery-1.7.2.min.js"></script>
-      <script src="/static/js/sjcl.js"></script>
-      <script src="/static/js/behavior.js?{{ settings.VERSION }}"></script>
+      <script src="/static/js/jquery-1.7.2.min.js" type="text/javascript" async></script>
+      <script src="/static/js/sjcl.js" type="text/javascript" async></script>
+      <script src="/static/js/behavior.js?" type="text/javascript" async></script>
     %end
 
     <script type="text/javascript">
