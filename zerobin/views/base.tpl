@@ -155,7 +155,7 @@
       %end
 
     <p id="alert-template">
-      <a class="close" data-dismiss="alert" href="#">×</a>
+      <a class="close" data-dismiss="alert" href="#">&times;</a>
       <strong class="title"></strong>
       <span class="message"></span>
     </p>
