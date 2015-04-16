@@ -3,7 +3,7 @@
 </script>
 
 <p class="alert alert-error">
-  <a class="close" data-dismiss="alert" href="#">×</a>
+  <a class="close" data-dismiss="alert" href="#">&times;</a>
   <strong class="title">404 Error!</strong>
   <span class="message">
     Either this paste has expired or this page never existed.
