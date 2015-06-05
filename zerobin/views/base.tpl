@@ -136,7 +136,6 @@
         </h4>
       %end
 
-
       </br>
         <p class="greetings span12">
             Based on an original idea from
